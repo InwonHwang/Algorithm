@@ -15,5 +15,10 @@
     <ClCompile Include="11655.cpp" />
     <ClCompile Include="10824.cpp" />
     <ClCompile Include="11656.cpp" />
+    <ClCompile Include="CodingInterview1_1.cpp" />
+    <ClCompile Include="CodingInterview1_3.cpp" />
+    <ClCompile Include="CodingInterview1_2.cpp" />
+    <ClCompile Include="CodingInterview1_4.cpp" />
+    <ClCompile Include="CodingInterview1_5.cpp" />
   </ItemGroup>
 </Project>
